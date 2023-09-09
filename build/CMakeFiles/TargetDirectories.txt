@@ -1,0 +1,4 @@
+/home/psiembab/Desktop/Inter/build/CMakeFiles/FrameworkRelease.dir
+/home/psiembab/Desktop/Inter/build/CMakeFiles/game.dir
+/home/psiembab/Desktop/Inter/build/CMakeFiles/edit_cache.dir
+/home/psiembab/Desktop/Inter/build/CMakeFiles/rebuild_cache.dir

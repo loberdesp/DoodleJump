@@ -1,0 +1,15 @@
+HOW TO RUN PROGRAM?
+
+you need SDL2 installed on your computer
+
+get in build folder with terminal and use command:
+
+cmake ../Framework && make && ./game
+
+game is meant to be run at 600x800
+
+you can run the game with custom resolution (greater than 200) by adding command -w width height f.e. -w 800 800 
+
+but watch out, it might be buggy
+
+:)

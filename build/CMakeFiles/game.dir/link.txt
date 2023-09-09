@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/game.dir/home/psiembab/Desktop/Inter/Project/game.cpp.o CMakeFiles/game.dir/home/psiembab/Desktop/Inter/Project/functions.cpp.o -o game  -Wl,-rpath,/home/psiembab/Desktop/Inter/build libFrameworkRelease.so.0.0.1 -lSDL2 -lSDL2_image 

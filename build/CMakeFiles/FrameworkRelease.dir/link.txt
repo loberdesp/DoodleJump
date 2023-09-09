@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libFrameworkRelease.so.0.0.1 -o libFrameworkRelease.so.0.0.1 CMakeFiles/FrameworkRelease.dir/src/launch.cpp.o 

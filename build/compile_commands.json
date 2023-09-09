@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/psiembab/Desktop/Inter/build",
+  "command": "/usr/bin/g++ -DFrameworkRelease_EXPORTS -I/home/psiembab/Desktop/Inter/Framework/. -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/FrameworkRelease.dir/src/launch.cpp.o -c /home/psiembab/Desktop/Inter/Framework/src/launch.cpp",
+  "file": "/home/psiembab/Desktop/Inter/Framework/src/launch.cpp"
+},
+{
+  "directory": "/home/psiembab/Desktop/Inter/build",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/game.dir/home/psiembab/Desktop/Inter/Project/game.cpp.o -c /home/psiembab/Desktop/Inter/Project/game.cpp",
+  "file": "/home/psiembab/Desktop/Inter/Project/game.cpp"
+},
+{
+  "directory": "/home/psiembab/Desktop/Inter/build",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/game.dir/home/psiembab/Desktop/Inter/Project/functions.cpp.o -c /home/psiembab/Desktop/Inter/Project/functions.cpp",
+  "file": "/home/psiembab/Desktop/Inter/Project/functions.cpp"
+}
+]
